@@ -6,7 +6,7 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
 
 - Link para acessar: [Portfolio](https://portfoliojefferson.notion.site/Portf-lio-6d4016449328484384f49a9f6ff4783a?source=copy_link)
 
-- Acesse ao ambiente de desenvolvimento desses projetos, um espaço criado por mim para planejar e gerenciar: "[Data Analytics Lab](https://portfoliojefferson.notion.site/Data-Analytics-Lab-21cc23c8b2714f4595ea8086ebe34b10?source=copy_link)"
+- Acesse ao ambiente de desenvolvimento desses projetos, um espaço criado por mim para planejar e gerenciar: [Data Analytics Lab](https://portfoliojefferson.notion.site/Data-Analytics-Lab-21cc23c8b2714f4595ea8086ebe34b10?source=copy_link)
 
 ---
 
