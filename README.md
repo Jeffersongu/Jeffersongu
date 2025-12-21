@@ -10,14 +10,6 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
 
 <img 
     align="left" 
-    alt="GitHub"
-    title="GitHub" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-<img 
-    align="left" 
     alt="SQLServer" 
     title="SQLServer"
     width="30px" 
@@ -26,11 +18,27 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
 />
 <img 
     align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PowerBI" 
+    title="PowerBI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" 
 />
 <img 
     align="left" 
@@ -50,22 +58,6 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
 />
 <img 
     align="left" 
-    alt="PowerBI" 
-    title="PowerBI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
     alt="GCP" 
     title="GCP"
     width="30px" 
@@ -79,6 +71,14 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     align="left" 
@@ -103,22 +103,6 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
