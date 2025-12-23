@@ -5,6 +5,8 @@
 <!-- Adicionando informações sobre mim: -->
 Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Campinas, este repositório reúne projetos com foco em Business Intelligence, Análise de Dados e Visualização. Os projetos aplicam conceitos de modelagem de dados, ETL, análise exploratória e construção de dashboards, utilizando principalmente Microsoft Power BI. O objetivo é transformar dados brutos em insights acionáveis, apoiando a tomada de decisão, a otimização de processos e a geração de valor em cenários reais de negócios e engenharia.
 
+<!-- Inserirndo Link para Portfolio de Projetos: -->
+Link's bloqueados provisoriamente!
 - Link para acessar: [Portfolio](https://portfoliojefferson.notion.site/Portf-lio-6d4016449328484384f49a9f6ff4783a?source=copy_link)
 
 - Acesse ao ambiente de desenvolvimento desses projetos, um espaço criado por mim para planejar e gerenciar: [Data Analytics Lab](https://portfoliojefferson.notion.site/Data-Analytics-Lab-21cc23c8b2714f4595ea8086ebe34b10?source=copy_link)
@@ -12,6 +14,9 @@ Meu nome é Jefferson Acacio Rocha Miranda, engenheiro civil formado pela PUC Ca
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<!-- Inserindo ícones -->
+Faltam: MySQL, Pentaho, Apache HOP, Analysis Services, DataBricks.
 
 <img 
     align="left" 
