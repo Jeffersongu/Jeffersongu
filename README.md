@@ -44,16 +44,32 @@ Faltam: MySQL, Pentaho, Apache HOP, Analysis Services, DataBricks.
 />
 <img 
     align="left" 
+    alt="Excel" 
+    title="Excel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" 
+/>
+<img 
+    align="left" 
+    alt="Google Sheets" 
+    title="Google Sheets"
+    width="23px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Google_Sheets_2020_Logo.svg" 
+/>
+<img 
+    align="left" 
     alt="PowerBI" 
     title="PowerBI"
-    width="30px" 
+    width="23px" 
     style="padding-right: 10px;" 
     src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" 
 />
 <img 
     align="left" 
-    alt="LookerStudio"
-    title="LookerStudio" 
+    alt="Looker Studio"
+    title="Looker Studio" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354012/looker-icon.svg" 
