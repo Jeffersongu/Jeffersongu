@@ -137,11 +137,11 @@ Faltam: MySQL, Pentaho, Apache HOP, Analysis Services, DataBricks.
 />
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Trello" 
+    title="Trello"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
+    src="https://www.svgrepo.com/show/354463/trello.svg" 
 />
 
 <br/>
