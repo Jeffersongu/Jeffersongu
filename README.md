@@ -1,7 +1,9 @@
-# 📈 Jefferson Acacio
+<img width="2082" height="511" alt="Imagem1" src="https://github.com/user-attachments/assets/8452cde7-f26a-4f50-96d9-f727900a26bd" />
+<br/>
 
-**`Analista de Dados`**
 
+
+### 📈 Sobre Mim
 <!-- Adicionando informações sobre mim: -->
 
 Meu nome é Jefferson Acacio Rocha Miranda, Analista de Dados com formação em Engenharia Civil pela PUC Campinas. 
