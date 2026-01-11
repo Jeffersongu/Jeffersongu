@@ -26,7 +26,7 @@ Link's bloqueados provisoriamente!
 ### 🤖 Linguagens e Tecnologias
 
 <!-- Inserindo ícones -->
-Faltam: MySQL, Pentaho, Apache HOP, Analysis Services, DataBricks.
+Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
 
 <img 
     align="left" 
