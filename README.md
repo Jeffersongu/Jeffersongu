@@ -1,10 +1,10 @@
+<!-- Capa para GitHub: -->
 <img width="2082" height="511" alt="Imagem1" src="https://github.com/user-attachments/assets/8452cde7-f26a-4f50-96d9-f727900a26bd" />
 <br/>
 
 
-
-### 📈 Sobre Mim
 <!-- Adicionando informações sobre mim: -->
+### 📈 Sobre Mim
 
 Meu nome é Jefferson Acacio Rocha Miranda, Analista de Dados com formação em Engenharia Civil pela PUC Campinas. 
 Este repositório reflete minha jornada prática em transformar dados brutos em insights acionáveis, com storytelling visual sempre com foco em resolver problemas reais de negócio, otimizar processos e apoiar decisões estratégicas,  utilizando tecnologias como Power BI, Looker Studio, Tableau.
@@ -15,7 +15,7 @@ Aqui você encontrará desde pipelines automatizados até visualizações intera
 <!-- Inserirndo Link para Portfolio de Projetos: -->
 Link's bloqueados provisoriamente!
 
-- Atualmente, estou aprendendo: Databricks, Apache Hop, GCP, Azure e Tableau;
+- Atualmente, estou aprendendo: Estatística, Databricks, Apache Hop, GCP, Azure e Tableau;
 
 - Link para acessar: [Portfolio](https://portfoliojefferson.notion.site/Portf-lio-6d4016449328484384f49a9f6ff4783a?source=copy_link);
 
