@@ -110,14 +110,6 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
 />
 <img 
     align="left" 
-    alt="Azure" 
-    title="Azure"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
     alt="DataBricks" 
     title="DataBricks"
     width="30px" 
