@@ -114,7 +114,7 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
     title="DataBricks"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/databricks.svg" 
+    src="https://github.com/user-attachments/assets/71c06470-570e-4f80-9450-38f4a49a3fe1"
 />
 <img 
     align="left" 
