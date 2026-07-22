@@ -46,6 +46,14 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
 />
 <img 
     align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/de20d820-3e2c-4147-9257-38b6e6180cf7"
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
@@ -74,7 +82,7 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
     title="PowerBI"
     width="23px" 
     style="padding-right: 10px;" 
-    src="https://logo.svgcdn.com/logos/microsoft-power-bi.svg" 
+    src="https://github.com/user-attachments/assets/cf3d2261-478f-4e64-9d46-f7e83bdae4be"
 />
 <img 
     align="left" 
@@ -90,7 +98,7 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
     title="Tableau" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://logo.svgcdn.com/logos/tableau-icon.svg" 
+    src="https://github.com/user-attachments/assets/360bffb1-9cbb-41b6-a6d0-8d61dd696e50"
 />
 <img 
     align="left" 
@@ -148,7 +156,22 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/354463/trello.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Pentaho" 
+    title="Pentaho"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/f4cbaa65-5254-4408-ba32-825298033001"
+/>
+<img 
+    align="left" 
+    alt="DBT" 
+    title="DBT"
+    width="65px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/92192c70-018f-441a-aebf-bfd0d5bae931"
+/>
 <br/>
 <br/>
 
