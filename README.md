@@ -160,9 +160,9 @@ Faltam: MySQL, Pentaho, Apache HOP e Analysis Services.
     align="left" 
     alt="DBT" 
     title="DBT"
-    width="65px" 
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/92192c70-018f-441a-aebf-bfd0d5bae931"
+    src="https://github.com/user-attachments/assets/dca80b59-283b-4473-9169-e33249ae8054"
 />
 <br/>
 <br/>
