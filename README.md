@@ -15,7 +15,7 @@ Aqui você encontrará desde pipelines automatizados até visualizações intera
 <!-- Inserirndo Link para Portfolio de Projetos: -->
 Link's bloqueados provisoriamente!
 
-- Atualmente, estou aprendendo: Estatística, Databricks, Apache Hop, GCP, Azure e Tableau;
+- Atualmente, estou aprendendo: Estatística, Databricks, Apache Hop, GCP, Tableau, Docker, Airbyte e Apache Airflow
 
 - Link para acessar: [Portfolio](https://portfoliojefferson.notion.site/Portf-lio-6d4016449328484384f49a9f6ff4783a?source=copy_link);
 
